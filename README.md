@@ -1,13 +1,6 @@
-###   <h2 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+###   <h2 align="center"> Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h2 align="center">QA Engineer</h2> 
-<div id="socials" align="center"><a href="https://t.me/aleksandra_vll"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
 
-###   <h3 align="left">:heavy_check_mark: Обо мне</h3>
-
-###   <h4 align="left">:black_medium_small_square: Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API.</h4>
-###   <h4 align="left">:black_medium_small_square: Открыта к изучению новых технологий.</h4>
-
-###   <h3 align="left">:heavy_check_mark: Навыки</h3>
 <img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/YouTrack-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
